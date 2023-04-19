@@ -1,0 +1,7 @@
+org.homework4
+org.homework4.business.abstracts
+org.homework4.business.concretes
+org.homework4.entities
+org.homework4.repository.abstracts
+org.homework4.repository.concretes
+org.homework4.tests

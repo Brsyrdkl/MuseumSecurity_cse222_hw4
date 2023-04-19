@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.homework4"},{"l":"org.homework4.business.abstracts"},{"l":"org.homework4.business.concretes"},{"l":"org.homework4.entities"},{"l":"org.homework4.repository.abstracts"},{"l":"org.homework4.repository.concretes"},{"l":"org.homework4.tests"}];updateSearchResults();

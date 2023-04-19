@@ -1,0 +1,41 @@
+
+_
+java:S1854"=Remove this useless assignment to local variable "officer10".(æóÆŽýÿÿÿÿ8«¸›Ñù0
+Y
+java:S1854"<Remove this useless assignment to local variable "officer9".(­£‘8‚Å™Ñù0
+^
+java:S1854"<Remove this useless assignment to local variable "officer8".(à¤ãÂùÿÿÿÿ8¾ñ—Ñù0
+^
+java:S1854"<Remove this useless assignment to local variable "officer7".(ñ‡ƒƒüÿÿÿÿ8–ƒ–Ñù0
+Y
+java:S1854"<Remove this useless assignment to local variable "officer6".(ñ”œ·8öû“Ñù0
+^
+java:S1854"<Remove this useless assignment to local variable "officer5".(ûðîÖþÿÿÿÿ8«¯‘Ñù0
+Y
+java:S1854"<Remove this useless assignment to local variable "officer4".(öž¡8¬¨Ñù0
+^
+java:S1854"<Remove this useless assignment to local variable "officer3".(Âðî»ýÿÿÿÿ8˜ªÑù0
+^
+java:S1854"<Remove this useless assignment to local variable "officer2".(àÂË°øÿÿÿÿ8–ÊˆÑù0
+Y
+java:S1854"<Remove this useless assignment to local variable "officer1".(ó“¹Š8•è†Ñù0
+J
+java:S1481"-Remove this unused "officer1" local variable.(ó“¹Š8›è†Ñù0
+O
+java:S1481"-Remove this unused "officer2" local variable.(àÂË°øÿÿÿÿ8›ÊˆÑù0
+O
+java:S1481"-Remove this unused "officer3" local variable.(Âðî»ýÿÿÿÿ8¥ªÑù0
+J
+java:S1481"-Remove this unused "officer4" local variable.(öž¡8¸¨Ñù0
+O
+java:S1481"-Remove this unused "officer5" local variable.(ûðîÖþÿÿÿÿ8À¯‘Ñù0
+J
+java:S1481"-Remove this unused "officer6" local variable.(ñ”œ·8ü“Ñù0
+O
+java:S1481"-Remove this unused "officer7" local variable.(ñ‡ƒƒüÿÿÿÿ8¶ƒ–Ñù0
+O
+java:S1481"-Remove this unused "officer8" local variable.(à¤ãÂùÿÿÿÿ8åñ—Ñù0
+J
+java:S1481"-Remove this unused "officer9" local variable.(­£‘8¥Å™Ñù0
+P
+java:S1481".Remove this unused "officer10" local variable.(æóÆŽýÿÿÿÿ8Ò¸›Ñù0
